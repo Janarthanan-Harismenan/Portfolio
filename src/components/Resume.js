@@ -3,7 +3,7 @@ import ResumeImage from "../assets/Resume.jpg";
 
 function Resume() {
   const config = {
-    link: "https://drive.usercontent.google.com/u/0/uc?id=1ItiHEbtETbH5pq6FVecnrtasZU7_Al12&export=download",
+    link: "https://drive.usercontent.google.com/u/0/uc?id=1fk_O_NQhoq2GN1LKvklVL-ZMnsHzScqY&export=download",
   };
 
   return (
